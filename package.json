@@ -1,7 +1,7 @@
 {
   "name": "bad-ecommerce-code",
   "version": "1.0.0",
-  "description": "Плохой код интернет-магазина для рефакторинга за 3 часа",
+  "description": "интернет-магазин",
   "private": true,
   "scripts": {
     "dev": "vite",
